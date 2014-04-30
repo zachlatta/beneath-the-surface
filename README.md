@@ -1,4 +1,4 @@
-# Beneath The Surface
+# Beneath The Surface ![Analytics](https://ga-beacon.appspot.com/UA-34529482-6/beneath-the-surface/readme?pixel)
 
 Beneath The Surface is a game about the human condition. It was created for
 Ludum Dare 29.
